@@ -4,7 +4,7 @@
 ## My Github Datas
 <img src="https://github-readme-stats.vercel.app/api?username=Noirscode&show_icons=true&theme=tokyonight" width="%100" height="230px" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noirscode&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
-< img src="https://lanyard-profile-readme.vercel.app/api/580977876011188244" width="%100" height="150px" alt="stats" />
+<img src="https://lanyard-profile-readme.vercel.app/api/580977876011188244" width="%100" height="150px" alt="stats" />
 
 
 ## My Accounts

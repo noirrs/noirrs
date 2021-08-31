@@ -1,12 +1,11 @@
+<div align="center">
 ## Hi, I'm Noir! 
 
 
 <details>
-  <summary style="font-weight: bold; font-size: 18px">[Click Me For More Information]</summary>
+  <summary style="font-weight: bold; font-size: 18px">[About Me]</summary>
     
-selam
 
-};
 </details>
 
 

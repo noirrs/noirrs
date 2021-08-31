@@ -17,6 +17,10 @@
 </details>
 
 
+<img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
+<img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexulec&layout=compact&theme=dracula">
+<img width="48%" style="size: 50px;" align="right" href="https://discord.com/users/709376748206293002" src="https://lanyard-profile-readme.vercel.app/api/709376748206293002">
+
 ## My Accounts
 <a href="https://github.com/noirscode" target="_blank"><img src="https://img.shields.io/badge/Noirscode%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://discord.com/users/580977876011188244" target="_blank"><img src="https://shields.io/badge/Noir-111111.svg?&style=for-the-badge&logo=discord"></a>

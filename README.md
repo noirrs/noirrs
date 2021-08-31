@@ -7,11 +7,7 @@
 selam
 
 };
-```
 </details>
-
-
-
 
 
 ## My Accounts

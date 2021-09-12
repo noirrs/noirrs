@@ -21,7 +21,7 @@
 
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noirscode&layout=compact&theme=dracula">
-<img width="48%" style="size: 50px;" align="right" href="https://discord.com/users/580977876011188244" src="https://lanyard-profile-readme.vercel.app/api/580977876011188244?theme=dark&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=%E2%9C%A8Idling">
+<img width="48%" style="size: 50px;" align="right" href="https://discord.com/users/580977876011188244" src="https://lanyard-profile-readme.vercel.app/api/580977876011188244?borderRadius=30px">
 
 
 ## My Accounts

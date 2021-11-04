@@ -7,7 +7,7 @@
   <summary style="font-weight: bold; font-size: 18px">[About Me]</summary>
    
    ## Frameworks & Languages ##
-<p align="left">
+<p align="center">
   <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="flutter" width="40" height="40" /> </a>
   <a href="https://dart.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="dart" width="40" height="40" /> </a>
     <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" /> </a>

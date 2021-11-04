@@ -19,7 +19,7 @@
 </p>
 </details>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=oitziwwbyioezmtmfndiu3qqw&count=1)
+
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noirscode&layout=compact&theme=dracula">
 
@@ -29,3 +29,4 @@
 <a href="https://discord.com/users/580977876011188244" target="_blank"><img src="https://shields.io/badge/Noir-111111.svg?&style=for-the-badge&logo=discord"></a>
 <a href="https://www.npmjs.com/~noirscode" target="_blank"><img src="https://shields.io/badge/Noirscode-111111.svg?&style=for-the-badge&logo=npm"></a>
 <a href="https://open.spotify.com/user/oitziwwbyioezmtmfndiu3qqw" target= "_blank"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=black"></a>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=oitziwwbyioezmtmfndiu3qqw&count=1)

@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Hi, I'm Noir! 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235A1AF7&size=29&lines=Dart+with+Flutter+SDK;Go;JavaScript+;NodeJS;TypeScript)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235A1AF7&size=29&lines=Developer;Dart+with+Flutter+SDK;Go;JavaScript+;NodeJS;TypeScript)
 
 <details>
   <summary style="font-weight: bold; font-size: 18px">[About Me]</summary>

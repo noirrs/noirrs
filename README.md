@@ -19,7 +19,7 @@
 </p>
 </details>
 
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=oitziwwbyioezmtmfndiu3qqw&count=1)
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="48%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noirscode&layout=compact&theme=dracula">
 

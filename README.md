@@ -1,7 +1,6 @@
 <div align="center">
 
 ## Hi, I'm Noir! 
- <div align="center">
   
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235A1AF7&size=29&lines=Developer;Dart+with+Flutter+SDK;Go;JavaScript+;NodeJS;TypeScript) 
 

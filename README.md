@@ -3,11 +3,11 @@
 ## Hi, I'm Noir! 
   
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235A1AF7&size=29&lines=Developer;Dart+with+Flutter+SDK;Go;JavaScript+;NodeJS;TypeScript) 
-
+  
 <details>
   <summary style="font-weight: bold; font-size: 18px">[About Me]</summary>
    
-   ## Frameworks & Languages ##
+## Frameworks & Languages 
 <p align="center">
   <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="flutter" width="40" height="40" /> </a>
   <a href="https://dart.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="dart" width="40" height="40" /> </a>

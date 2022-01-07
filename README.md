@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Noir!  </h1>
   
  <h4 align="center">
-🔮 I'm back-end developer who is interested in front-end also. I'm currently learning Rust, Go_lang and React. 
+🔮 I'm back-end developer who is interested in front-end also. I'm currently learning Go_lang and React. 
  </p>
    
 <h1 align="center">🔨 Frameworks & Languages </h1>

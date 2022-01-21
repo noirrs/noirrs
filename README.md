@@ -32,5 +32,5 @@
 <a href="https://www.npmjs.com/~noirscode" target="_blank"><img src="https://shields.io/badge/Noirscode-111111.svg?&style=for-the-badge&logo=npm"></a>
 <a href="https://open.spotify.com/user/oitziwwbyioezmtmfndiu3qqw" target= "_blank"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=black"></a></div>
 <p align="center">
-<img src="https://lanyard.cnrad.dev/api/580977876011188244" width="40%"> 
+<img src="https://lanyard.cnrad.dev/api/303458353" width="40%"> 
 </p>

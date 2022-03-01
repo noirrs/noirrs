@@ -27,7 +27,7 @@
 <h1 align="center">📕 My Github Review </h1>
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noirscode&layout=compact&theme=dracula">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noirrs&layout=compact&theme=dracula">
 </p>
 
 <h1 align="center">🔗 My Accounts </h1>

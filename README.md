@@ -6,7 +6,7 @@
 🔮 I'm back-end developer who is interested in front-end also. I'm currently learning Go_lang and React. 
  </p>
    
-  ![](https://komarev.com/ghpvc/?username=Noirss&color=dc143c)
+
 
   
 <h1 align="center">🔨 Frameworks & Languages </h1>

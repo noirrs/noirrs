@@ -31,6 +31,7 @@
 
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noirrs&layout=compact&theme=dracula" />
+  
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Noirrs&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </p>
 

@@ -47,8 +47,8 @@
   </details>
   
   <details>
-  <summary markdown="span">currently what am i doing</summary>
-  <h1 align="center">Currently</h1>
+  <summary markdown="span">currently</summary>
+  <h1 align="center">What am i doing now</h1>
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oitziwwbyioezmtmfndiu3qqw&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=oitziwwbyioezmtmfndiu3qqw&redirect=true)
   

@@ -44,6 +44,9 @@
 <a href="https://open.spotify.com/user/oitziwwbyioezmtmfndiu3qqw" target= "_blank"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=black"></a></div>
 
   
+  <h1 align="center">Currently</h1>
   
- <!--START_SECTION:waka-->
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oitziwwbyioezmtmfndiu3qqw&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=oitziwwbyioezmtmfndiu3qqw&redirect=true)
+  
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

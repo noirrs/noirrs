@@ -50,6 +50,6 @@
   <div>
 
  
-<!--START_SECTION:Waka-->
+<!--START_SECTION:waka-->
   
-<!--END_SECTION:Waka-->
+<!--END_SECTION:waka-->

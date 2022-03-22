@@ -49,10 +49,10 @@
   <details>
   <summary markdown="span">currently</summary>
   <h1 align="center">What am i doing now</h1>
-<p align="left">  
+<div align="left">  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oitziwwbyioezmtmfndiu3qqw&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=oitziwwbyioezmtmfndiu3qqw&redirect=true)
     </p>
-<p align="right">
+<div align="right">
 [![Discord Presence](https://lanyard.cnrad.dev/api/922078187788308510)](https://discord.com/users/922078187788308510)
     </p>
   </details>

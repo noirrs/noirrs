@@ -35,6 +35,7 @@
 <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noirrs&layout=compact&theme=dracula" />
 <img width="40%" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Noirrs&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
+  </details>
 <h1 align="center">🔗 My Accounts </h1>
 
 <div align="center">

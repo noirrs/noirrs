@@ -32,8 +32,8 @@
 <h1 align="center">📕 My Github Review </h1>
 
 
-<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noirrs&layout=compact&theme=dracula" />
-<img width="40%" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Noirrs&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noirrs&layout=compact&theme=dracula"> </img>
+<img width="40%" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Noirrs&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D"> </img>
 
   </details>
   
@@ -42,8 +42,8 @@
   <h1 align="center">What am i doing now</h1>
 
   
-<img align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=oitziwwbyioezmtmfndiu3qqw&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false"/>
-<img align="right" src="https://lanyard.cnrad.dev/api/922078187788308510"/>   
+<img align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=oitziwwbyioezmtmfndiu3qqw&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false"> </img>
+<img align="right" src="https://lanyard.cnrad.dev/api/922078187788308510"> </img>   
     
   </details>
   

@@ -10,7 +10,7 @@
 
   
 <h1 align="center">🔨 Frameworks & Languages </h1>
-
+<details>
 <p align="center">
  <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="40" height="40" /> 
   <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="dart" width="40" height="40" /> 
@@ -24,7 +24,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="40" height="40"/>
    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40" height="40"/>
    <img src="https://github.com/tailwindlabs/tailwindcss/raw/master/.github/logo-dark.svg" width="40" height="40"/>
-
+  </details>
 
 
 <h1 align="center">📕 My Github Review </h1>

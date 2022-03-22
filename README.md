@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Noir!  </h1>
   
  <h4 align="center">
-🔮 I'm a back-end developer who is interested in front-end also. I'm currently learning Go and React. 
+ 🎉 I'm a back-end developer who is interested in front-end also. I'm currently learning Go and React. 
  </h4>
    
   <h1 align="center">🔗 My Accounts </h1>

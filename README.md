@@ -40,8 +40,8 @@
 <h1 align="center">📕 My Github Review </h1>
 
 <p>
-<img width="50%" height="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noirrs&layout=compact&theme=dracula"> </img>
-<img width="40%" height="40%" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Noirrs&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D"> </img>
+<img width="30%" height="30%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noirrs&layout=compact&theme=dracula"> </img>
+<img width="50%" height="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Noirrs&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D"> </img>
 </p>
   </details>
   

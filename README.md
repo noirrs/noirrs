@@ -8,10 +8,10 @@
    
 
 
-  
-<h1 align="center">🔨 Frameworks & Languages </h1>
 <details>
-  <summary markdown="span">Click me</summary>
+  <summary markdown="span">tech stacks</summary>
+<h1 align="center">🔨 Tech Stacks</h1>
+
 
 <p align="center">
  <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="40" height="40" /> 

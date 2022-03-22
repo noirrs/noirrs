@@ -4,14 +4,13 @@
   
  <h4 align="center">
 🔮 I'm a back-end developer who is interested in front-end also. I'm currently learning Go and React. 
- </p>
+ </h4>
    
 
 
 <details>
   <summary markdown="span">tech stacks</summary>
-<h1 align="center">🔨 Tech Stacks</h1>
-
+  <h1 align="center">🔨 Tech Stacks</h1>
 
 <p align="center">
  <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="40" height="40" /> 
@@ -28,7 +27,8 @@
    <img src="https://github.com/tailwindlabs/tailwindcss/raw/master/.github/logo-dark.svg" width="40" height="40"/>
   </details>
 
-
+<details>
+ <summary markdown="span">github review</summary>
 <h1 align="center">📕 My Github Review </h1>
 
 <p align="center">
@@ -44,11 +44,17 @@
 <a href="https://discord.com/users/922078187788308510" target="_blank"><img src="https://shields.io/badge/Noir-111111.svg?&style=for-the-badge&logo=discord"></a>
 <a href="https://www.npmjs.com/~noirscode" target="_blank"><img src="https://shields.io/badge/Noirscode-111111.svg?&style=for-the-badge&logo=npm"></a>
 <a href="https://open.spotify.com/user/oitziwwbyioezmtmfndiu3qqw" target= "_blank"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=black"></a></div>
-
+  </details>
   
+  <details>
+  <summary markdown="span">currently what am i doing</summary>
   <h1 align="center">Currently</h1>
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oitziwwbyioezmtmfndiu3qqw&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=oitziwwbyioezmtmfndiu3qqw&redirect=true)
   
+    
+  </details>
+  
+ 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

@@ -51,7 +51,8 @@
   <h1 align="center">What am i doing now</h1>
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=oitziwwbyioezmtmfndiu3qqw&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=oitziwwbyioezmtmfndiu3qqw&redirect=true)
-  
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/922078187788308510)](https://discord.com/users/922078187788308510)
     
   </details>
   

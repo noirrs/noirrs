@@ -11,6 +11,8 @@
   
 <h1 align="center">🔨 Frameworks & Languages </h1>
 <details>
+  <summary markdown="span">Click me</summary>
+
 <p align="center">
  <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="40" height="40" /> 
   <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="dart" width="40" height="40" /> 

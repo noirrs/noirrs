@@ -20,13 +20,6 @@
   <summary markdown="span">tech stacks</summary>
   
   
-  <h1 align="center">📕 My Github Review </h1>
-
-<div>
-<img width="40%" height="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noirrs&layout=compact&theme=dracula"> </img>
-<img width="50%" height="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Noirrs&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D"> </img>
-</div>
-  
 
   
   <div>
@@ -50,6 +43,18 @@
 
 </details>
  
+<details>
+  <summary markdown="span">github reviews</summary>
+    <h1 align="center">📕 My Github Review </h1>
+
+<div>
+<img width="40%" height="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noirrs&layout=compact&theme=dracula"> </img>
+<img width="50%" height="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Noirrs&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D"> </img>
+</div>
+  
+  </details>
+  
+  
 <!--START_SECTION:waka-->
 
 ```text

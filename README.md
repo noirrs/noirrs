@@ -33,17 +33,13 @@
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="40" height="40"/>
    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40" height="40"/>
    <img src="https://github.com/tailwindlabs/tailwindcss/raw/master/.github/logo-dark.svg" width="40" height="40"/>
-  </details>
 
-<details>
- <summary markdown="span">github review</summary>
 <h1 align="center">📕 My Github Review </h1>
 
 <p>
 <img width="40%" height="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noirrs&layout=compact&theme=dracula"> </img>
 <img width="50%" height="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Noirrs&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D"> </img>
 </p>
-  </details>
   
 
   

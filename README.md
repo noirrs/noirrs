@@ -44,7 +44,7 @@
 
   
   <div>
-
+</details>
  
 <!--START_SECTION:waka-->
 

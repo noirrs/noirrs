@@ -6,7 +6,7 @@
  🎉  I'm a back-end developer who is interested in front-end also. I'm currently learning Go and React. 
  </h4>
   
-  <p>For freelance projects you contact with me on `hi@noirs.me`</p>
+  <p>For freelance projects you contact with me on hi@noirs.me</p>
    
   <h1 align="center">🔗 My Accounts </h1>
 

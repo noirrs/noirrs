@@ -4,8 +4,9 @@
   
  <h4 align="center">
  🎉  I'm a back-end developer who is interested in front-end also. I'm currently learning Go and React. 
-   For freelance projects you contact with me on hi@noirs.me`
  </h4>
+  
+  <p>For freelance projects you contact with me on `hi@noirs.me`</p>
    
   <h1 align="center">🔗 My Accounts </h1>
 

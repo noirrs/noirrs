@@ -61,12 +61,12 @@ For freelance projects you contact with me on [hi@noirs.me](mailto:hi@noirs.me)
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   15 hrs 40 mins  ██████████████████▓░░░░░░   74.55 %
-JavaScript   2 hrs 46 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 %
-Markdown     50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-Go           45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-CSS          31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-JSON         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+TypeScript   16 hrs 50 mins  ███████████████████░░░░░░   76.33 %
+JavaScript   2 hrs 46 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+Go           45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Markdown     43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+CSS          32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+JSON         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->

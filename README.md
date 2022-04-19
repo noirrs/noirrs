@@ -6,7 +6,11 @@
  🎉  I'm a back-end developer who is interested in front-end also. I'm currently learning Go and React. 
  </h4>
   
-For freelance projects you contact with me on [hi@noirs.me](mailto:hi@noirs.me)
+<p align="center">
+  
+  I'm open to freelance projects, you contact with me on [hi@noirs.me](mailto:hi@noirs.me)
+  
+  </p>
 
    
   <h1 align="center">🔗 My Accounts </h1>

@@ -65,8 +65,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Dart    7 mins          ██████████████████████▒░░   89.27 %
-Other   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

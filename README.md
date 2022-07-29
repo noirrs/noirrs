@@ -3,13 +3,13 @@
 <h1 align="center">👋 Hey Everyone, I'm Noir! </h1>
   
  <h4 align="center">
- 🎉  I'm a back-end developer who is interested in front-end also. I'm currently practicing Go and Flutter. 
+ 🎉  I'm a back-end developer who is interested in front-end also. I'm currently developing [Sola](https://sola.noirs.me) which is a basic chat ai 
  </h4>
-  
+   
 <p align="center">
   
   I'm open to freelance projects, contact with me on [hi@noirs.me](mailto:hi@noirs.me)
-  
+   
   </p>
    
   <h1 align="center">🔗 My Accounts </h1>

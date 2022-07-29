@@ -11,8 +11,6 @@
   I'm open to freelance projects, contact with me on [hi@noirs.me](mailto:hi@noirs.me)
   
   </p>
-
-![text](https://cdn.readco.tk/Images/Dragon.jpeg)
    
   <h1 align="center">🔗 My Accounts </h1>
 

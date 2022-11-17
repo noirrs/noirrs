@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey Everyone, I'm Noir! </h1>
   
 
- 🎉  I'm a back-end developer who is interested in front-end also. I'm currently developing [Sola](https://sola.noirs.me) which is a basic chat ai 
+ 🎉  I'm a back-end developer mostly using Typescript. I'm currently working on c#
 
    
 <p align="center">

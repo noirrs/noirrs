@@ -7,8 +7,10 @@
 
    
 <p align="center">
+
   I'm open to freelance projects, contact with me on [hi@noirs.me](mailto:hi@noirs.me)
-  </p>
+ 
+ </p>
    
 
   

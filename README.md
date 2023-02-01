@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey Everyone, I'm Noir! </h1>
   
 
- 🎉  I'm a back-end developer mostly using Typescript. I'm currently learning c
+ 🎉  I'm a back-end developer mostly using Typescript (Nest) and Go. I'm currently learning c#
 
    
 <p align="center">

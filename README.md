@@ -8,7 +8,7 @@
    
 <p align="center">
 
-  I'm open to full-remote works, contact on [hi@noir.land](mailto:business@noir.land)
+  I'm open to full-remote works, contact on [business@noir.land](mailto:business@noir.land)
  
  </p>
    

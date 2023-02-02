@@ -10,8 +10,7 @@
    
 <p align="center">
 
-  I'm open to full-remote works, contact on [business@noir.land](mailto:business@noir.land)
-  
+  I'm open to full-remote works, contact on [business@noir.land](mailto:business@noir.land) 
   Resume can be viewed [here](https://cdn.noir.land/resume)
  </p>
    

@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey Everyone, I'm Noir! </h1>
   
 
- 🎉  I'm a back-end developer mostly using Typescript (Nest) and Go. I'm currently learning c#
+ 🎉  Junior back-end developer who is able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. Proficient in an assortment of technologies, including Node, Go, Typescript and Nest as well as experienced using sort of things like Next/React, Tailwind, HTML, JavaScript and CSS on the client side.
 
    
 <p align="center">

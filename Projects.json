@@ -1,8 +1,28 @@
 {
-  "Sola": {
-    
-    name: "Sola",
-    description: "A basic chat ai"
-    
-  } 
+	"projects": [
+		{
+			"name": "Sola",
+			"description": "A basic chat ai",
+			"link": "",
+			"image": "https://a.slack-edge.com/10325/marketing/img/solutions/project-management/img-hero-project-management.jpg"
+		},
+		{
+			"name": "Get Structure",
+			"description": "An useful api that helps to get file structure of your git repo",
+			"link": "",
+			"image": "https://a.slack-edge.com/10325/marketing/img/solutions/project-management/img-hero-project-management.jpg"
+		},
+		{
+			"name": "Sola",
+			"description": "A basic chat ai",
+			"link": "",
+			"image": "https://a.slack-edge.com/10325/marketing/img/solutions/project-management/img-hero-project-management.jpg"
+		},
+		{
+			"name": "Sola",
+			"description": "A basic chat ai",
+			"link": "",
+			"image": "https://a.slack-edge.com/10325/marketing/img/solutions/project-management/img-hero-project-management.jpg"
+		}
+	]
 }

@@ -24,7 +24,7 @@
 			"link": "https://noir.land",
 			"image": "https://a.slack-edge.com/10325/marketing/img/solutions/project-management/img-hero-project-management.jpg",
 			"type": "app",
-			"status:" "inactive",
+			"status": "inactive",
 			"title": "founder & backend dev"
 		},
 		{
@@ -34,8 +34,7 @@
 			"image": "https://a.slack-edge.com/10325/marketing/img/solutions/project-management/img-hero-project-management.jpg",
 			"type": "company",
 			"status": "developing",
-			"title:" "founder & dev"
+			"title": "founder & dev"
 		}
 	]
 }
- 

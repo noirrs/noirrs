@@ -3,7 +3,7 @@
 		{
 			"name": "Sola AI",
 			"description": "Sola, A start-level chat ai besides being fast and free, also powerful thanks to innovative frameworks",
-			"link": "https://noir.land",
+			"link": "https://sola.noir.land",
 			"image": "https://sola.noir.land/logo.png",
 			"type": "Chat AI",
 			"status": "alpha",
@@ -12,8 +12,8 @@
 		{
 			"name": "Get Structure",
 			"description": "Get Structure is an useful API that helps to get hierarchy (structure) of an github repository like tree command in bash",
-			"link": "https://noir.land",
-			"image": "https://raw.githubusercontent.com/noirrs/noirrs/1f18b5b90f78387b19215ecd64cd2e9f52bcbfa7/projects/structure.svg",
+			"link": "https://structure.noir.land",
+			"image": "https://raw.githubusercontent.com/noirrs/noirrs/main/projects/structure.png",
 			"type": "API",
 			"status": "active",
 			"title": "developer"
@@ -21,7 +21,7 @@
 		{
 			"name": "Reponse App",
 			"description": "A chat application project that respects your privacy",
-			"link": "https://noir.land",
+			"link": "https://github.com/ReponseApp",
 			"image": "https://avatars.githubusercontent.com/u/87664135?s=400&u=a8b33f29ebb49324a7e191e1ec6078018bad5be4&v=4",
 			"type": "app",
 			"status": "inactive",
@@ -30,7 +30,7 @@
 		{
 			"name": "Asolx",
 			"description": "Asolx is an efficient and productive company that creates useful projects.",
-			"link": "https://noir.land",
+			"link": "https://asolx.com",
 			"image": "https://i.imgur.com/iZnf5Jg.png",
 			"type": "company",
 			"status": "developing",

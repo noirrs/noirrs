@@ -4,7 +4,7 @@
 			"name": "Sola AI",
 			"description": "A start-level chat ai",
 			"link": "https://noir.land",
-			"image": "https://res.cloudinary.com/monday-blogs/w_768,h_384,c_fit/fl_lossy,f_auto,q_auto/wp-blog/2020/12/enterprise-img.jpeg",
+			"image": "https://sola.noir.land/logo.png",
 			"type": "Chat AI",
 			"status": "alpha",
 			"title": "developer"
@@ -31,7 +31,7 @@
 			"name": "Asolx",
 			"description": "Asolx is an efficient and productive company that creates useful projects.",
 			"link": "https://noir.land",
-			"image": "https://sola.noir.land/logo.png",
+			"image": "https://i.imgur.com/iZnf5Jg.png",
 			"type": "company",
 			"status": "developing",
 			"title": "founder & dev"

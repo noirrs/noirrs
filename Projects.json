@@ -4,7 +4,7 @@
 			"name": "Sola AI",
 			"description": "Sola, A start-level chat ai besides being fast and free, also powerful thanks to innovative frameworks",
 			"link": "https://sola.noir.land",
-			"image": "https://sola.noir.land/logo.png",
+			"image": "https://raw.githubusercontent.com/noirrs/noirrs/main/projects/sola.png",
 			"type": "Chat AI",
 			"status": "alpha",
 			"title": "developer"
@@ -22,7 +22,7 @@
 			"name": "Reponse App",
 			"description": "A chat application project that respects your privacy",
 			"link": "https://github.com/ReponseApp",
-			"image": "https://avatars.githubusercontent.com/u/87664135?s=400&u=a8b33f29ebb49324a7e191e1ec6078018bad5be4&v=4",
+			"image": "https://raw.githubusercontent.com/noirrs/noirrs/main/projects/reponse.png",
 			"type": "app",
 			"status": "inactive",
 			"title": "founder & backend dev"
@@ -31,7 +31,7 @@
 			"name": "Asolx",
 			"description": "Asolx is an efficient and productive company that creates useful projects.",
 			"link": "https://asolx.com",
-			"image": "https://i.imgur.com/iZnf5Jg.png",
+			"image": "https://raw.githubusercontent.com/noirrs/noirrs/main/projects/asolx.png",
 			"type": "company",
 			"status": "developing",
 			"title": "founder & dev"

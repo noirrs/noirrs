@@ -13,7 +13,7 @@
 			"name": "Get Structure",
 			"description": "Get Structure is an useful API that helps to get hierarchy (structure) of an github repository like tree command in bash",
 			"link": "https://structure.noir.land",
-			"image": "https://raw.githubusercontent.com/noirrs/noirrs/main/projects/structure.png",
+			"image": "https://raw.githubusercontent.com/noirrs/noirrs/main/projects/getstructure.png",
 			"type": "API",
 			"status": "active",
 			"title": "developer"

@@ -19,7 +19,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   19 mins         █████████████████████████   100.00 %
+Dart         33 mins         ███████████████▒░░░░░░░░░   61.21 %
+JavaScript   19 mins         █████████░░░░░░░░░░░░░░░░   35.82 %
+Markdown     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->

@@ -19,10 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go               55 mins         ██████████████░░░░░░░░░░░   55.76 %
-JavaScript       29 mins         ███████▒░░░░░░░░░░░░░░░░░   29.49 %
-TypeScript       14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Go               55 mins         ███████████████████▓░░░░░   79.07 %
+TypeScript       14 mins         █████░░░░░░░░░░░░░░░░░░░░   20.54 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->

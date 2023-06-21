@@ -19,9 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go               55 mins         ███████████████████▓░░░░░   79.07 %
-TypeScript       14 mins         █████░░░░░░░░░░░░░░░░░░░░   20.54 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Go   51 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

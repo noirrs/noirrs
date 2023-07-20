@@ -19,7 +19,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go           44 mins         ███████████████████████▒░   93.49 %
+Other        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->

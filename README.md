@@ -19,7 +19,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C       27 mins         █████████████▓░░░░░░░░░░░   54.51 %
+CMake   18 mins         █████████░░░░░░░░░░░░░░░░   36.58 %
+JSON    4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
+Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->

@@ -4,7 +4,7 @@
   
 <p>
   
- 🎉 Junior back-end developer with experience in building scalable applications. Skilled in Node.js, Go, TypeScript, and NestJS, with additional frontend knowledge in Next.js/React, Tailwind, HTML, CSS, and JavaScript. [Resume available here](https://cdn.noir.land/resume).
+ 🎉 Junior back-end developer with experience in building scalable applications. Skilled in Node.js, Go, TypeScript, and NestJS, with additional frontend knowledge in Next.js/React, Tailwind, HTML, CSS, and JavaScript. Resume available [here](https://cdn.noir.land/resume).
 
 </p>
    

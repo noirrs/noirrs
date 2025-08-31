@@ -35,6 +35,15 @@
 			"type": "company",
 			"status": "developing",
 			"title": "founder & dev"
+		},
+		{
+			"name": "Paccy.io",
+			"description": "Paccy.io is an AI-powered College Application Tracker that helps students manage essays, deadlines, academic profiles, and extracurriculars with smart tools.",
+			"link": "https://paccy.io",
+			"image": "https://raw.githubusercontent.com/noirrs/noirrs/main/projects/paccy.png",
+			"type": "web app",
+			"status": "developing",
+			"title": "founder & fullstack dev"
 		}
 	]
 }

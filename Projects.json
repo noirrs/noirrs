@@ -37,8 +37,8 @@
 			"title": "founder & dev"
 		},
 		{
-			"name": "Paccy.io",
-			"description": "Paccy.io is an AI-powered College Application Tracker that helps students manage essays, deadlines, academic profiles, and extracurriculars with smart tools.",
+			"name": "paccy.io",
+			"description": "paccy.io is an AI-powered College Application Tracker that helps students manage essays, deadlines, academic profiles, and extracurriculars with smart tools.",
 			"link": "https://paccy.io",
 			"image": "https://raw.githubusercontent.com/noirrs/noirrs/main/projects/paccy.png",
 			"type": "web app",
@@ -50,7 +50,7 @@
 			"description": "Blinkly is a free macOS menu bar app that reminds you to take breaks, blink, and fix your posture for healthier screen time.",
 			"link": "https://github.com/noirrs/blinkly",
 			"image": "https://raw.githubusercontent.com/noirrs/noirrs/main/projects/blinkly.png",
-			"type": "macOS app",
+			"type": "macos app",
 			"status": "active",
 			"title": "developer"
 		}

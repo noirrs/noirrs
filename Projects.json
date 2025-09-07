@@ -44,6 +44,15 @@
 			"type": "web app",
 			"status": "developing",
 			"title": "founder & fullstack dev"
+		},
+		{
+			"name": "Blinkly",
+			"description": "Blinkly is a free macOS menu bar app that reminds you to take breaks, blink, and fix your posture for healthier screen time.",
+			"link": "https://github.com/noirrs/blinkly",
+			"image": "https://raw.githubusercontent.com/noirrs/noirrs/main/projects/blinkly.png",
+			"type": "macOS app",
+			"status": "active",
+			"title": "developer"
 		}
 	]
 }

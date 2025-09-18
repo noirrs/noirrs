@@ -54,5 +54,37 @@
 			"status": "active",
 			"title": "developer"
 		}
-	]
+	],
+	  "works": [
+    {
+      "company": "Abidos Bilişim Teknolojileri",
+      "position": "Internship",
+      "duration": "Jul 2024 - Aug 2024",
+      "location": "Istanbul, Turkey · Hybrid",
+      "description": "During my internship, I developed and maintained a web server using NestJS to manage and process real-time data for a taxi location tracking system. I contributed to building the backend architecture, integrating APIs, and optimizing data flow to track and display taxi locations in real-time. This experience enhanced my skills in server-side development, working with databases, and utilizing WebSocket for live data updates.",
+      "technologies": ["OpenStreetMap", "NestJS", "WebSocket"],
+      "url": "",
+      "current": false
+    },
+    {
+      "company": "ProPartner Market",
+      "position": "Backend Developer",
+      "duration": "Nov 2023 - Jan 2024",
+      "location": "Remote",
+      "description": "Worked remotely as a backend developer. Developed and maintained microservice architecture (MSA) using NestJS, TypeScript, Redis, and Docker. Gained expertise in Atlassian tools.",
+      "technologies": ["NestJS", "TypeScript", "Redis", "Docker", "Atlassian"],
+      "url": "",
+      "current": false
+    },
+    {
+      "company": "Reponse App",
+      "position": "Founder & Backend Developer",
+      "duration": "2020 - Nov 2021",
+      "location": "Remote",
+      "description": "Founded a startup with friends, gaining hands-on experience in building and scaling a product. Worked remotely as a backend developer at Reponse App, a privacy-focused chat platform. Developed and maintained microservices using NestJS, TypeScript, Fastify, and Docker. Led public relations and marketing efforts to increase brand awareness and user acquisition. Also served as Team Leader and handled Project Management.",
+      "technologies": ["NestJS", "TypeScript", "Fastify", "Docker", "Project Management"],
+      "url": "https://github.com/ReponseApp",
+      "current": false
+    }
+  ]
 }

@@ -1,90 +1,106 @@
 {
-	"projects": [
-		{
-			"name": "Sola AI",
-			"description": "Sola, A start-level chat ai besides being fast and free, also powerful thanks to innovative frameworks",
-			"link": "https://sola.noir.land",
-			"image": "https://raw.githubusercontent.com/noirrs/noirrs/main/projects/sola.png",
-			"type": "chat ai",
-			"status": "alpha",
-			"title": "developer"
-		},
-		{
-			"name": "Get Structure",
-			"description": "Get Structure is an useful API that helps to get hierarchy (structure) of an github repository like tree command in bash",
-			"link": "https://structure.noir.land",
-			"image": "https://raw.githubusercontent.com/noirrs/noirrs/main/projects/getstructure.png",
-			"type": "api",
-			"status": "active",
-			"title": "developer"
-		},
-		{
-			"name": "Reponse App",
-			"description": "A chat application project that respects your privacy",
-			"link": "https://github.com/ReponseApp",
-			"image": "https://raw.githubusercontent.com/noirrs/noirrs/main/projects/reponse.png",
-			"type": "app",
-			"status": "inactive",
-			"title": "founder & backend dev"
-		},
-		{
-			"name": "Asolx",
-			"description": "Asolx is an efficient and productive company that creates useful projects.",
-			"link": "https://asolx.com",
-			"image": "https://raw.githubusercontent.com/noirrs/noirrs/main/projects/asolx.png",
-			"type": "company",
-			"status": "developing",
-			"title": "founder & dev"
-		},
-		{
-			"name": "paccy.io",
-			"description": "paccy.io is an AI-powered College Application Tracker that helps students manage essays, deadlines, academic profiles, and extracurriculars with smart tools.",
-			"link": "https://paccy.io",
-			"image": "https://raw.githubusercontent.com/noirrs/noirrs/main/projects/paccy.png",
-			"type": "web app",
-			"status": "developing",
-			"title": "founder & fullstack dev"
-		},
-		{
-			"name": "Blinkly",
-			"description": "Blinkly is a free macOS menu bar app that reminds you to take breaks, blink, and fix your posture for healthier screen time.",
-			"link": "https://github.com/noirrs/blinkly",
-			"image": "https://raw.githubusercontent.com/noirrs/noirrs/main/projects/blinkly.png",
-			"type": "macos app",
-			"status": "active",
-			"title": "developer"
-		}
-	],
-	  "works": [
-    {
-      "company": "Abidos Bilişim Teknolojileri",
-      "position": "Internship",
-      "duration": "Jul 2024 - Aug 2024",
-      "location": "Istanbul, Turkey · Hybrid",
-      "description": "During my internship, I developed and maintained a web server using NestJS to manage and process real-time data for a taxi location tracking system. I contributed to building the backend architecture, integrating APIs, and optimizing data flow to track and display taxi locations in real-time. This experience enhanced my skills in server-side development, working with databases, and utilizing WebSocket for live data updates.",
-      "technologies": ["OpenStreetMap", "NestJS", "WebSocket"],
-      "url": "",
-      "current": false
-    },
-    {
-      "company": "ProPartner Market",
-      "position": "Backend Developer",
-      "duration": "Nov 2023 - Jan 2024",
-      "location": "Remote",
-	  "description": "Worked remotely as a backend developer, collaborating closely with senior engineers to develop and maintain a microservice architecture (MSA) using NestJS, TypeScript, Redis, and Docker. Focused on improving performance and reliability, while gaining experience with Atlassian tools for task management and team coordination.",
-	  "technologies": ["NestJS", "TypeScript", "Redis", "Docker", "Atlassian"],
-      "url": "",
-      "current": false
-    },
-    {
-      "company": "Reponse App",
-      "position": "Founder & Backend Developer",
-      "duration": "2020 - Nov 2021",
-      "location": "Remote",
-      "description": "Founded a startup with friends, gaining hands-on experience in building and scaling a product. Worked remotely as a backend developer at Reponse App, a privacy-focused chat platform. Developed and maintained microservices using NestJS, TypeScript, Fastify, and Docker. Led public relations and marketing efforts to increase brand awareness and user acquisition. Also served as Team Leader and handled Project Management.",
-      "technologies": ["NestJS", "TypeScript", "Fastify", "Docker", "Project Management"],
-      "url": "https://github.com/ReponseApp",
-      "current": false
-    }
-  ]
+    "projects": [
+        {
+            "name": "Sola AI",
+            "description": "Sola, A start-level chat ai besides being fast and free, also powerful thanks to innovative frameworks",
+            "link": "https://sola.noir.land",
+            "image": "https://raw.githubusercontent.com/noirrs/noirrs/main/projects/sola.png",
+            "type": "chat ai",
+            "status": "alpha",
+            "title": "developer"
+        },
+        {
+            "name": "Get Structure",
+            "description": "Get Structure is an useful API that helps to get hierarchy (structure) of an github repository like tree command in bash",
+            "link": "https://structure.noir.land",
+            "image": "https://raw.githubusercontent.com/noirrs/noirrs/main/projects/getstructure.png",
+            "type": "api",
+            "status": "active",
+            "title": "developer"
+        },
+        {
+            "name": "Reponse App",
+            "description": "A chat application project that respects your privacy",
+            "link": "https://github.com/ReponseApp",
+            "image": "https://raw.githubusercontent.com/noirrs/noirrs/main/projects/reponse.png",
+            "type": "app",
+            "status": "inactive",
+            "title": "founder & backend dev"
+        },
+        {
+            "name": "Asolx",
+            "description": "Asolx is an efficient and productive company that creates useful projects.",
+            "link": "https://asolx.com",
+            "image": "https://raw.githubusercontent.com/noirrs/noirrs/main/projects/asolx.png",
+            "type": "company",
+            "status": "developing",
+            "title": "founder & dev"
+        },
+        {
+            "name": "paccy.io",
+            "description": "paccy.io is an AI-powered College Application Tracker that helps students manage essays, deadlines, academic profiles, and extracurriculars with smart tools.",
+            "link": "https://paccy.io",
+            "image": "https://raw.githubusercontent.com/noirrs/noirrs/main/projects/paccy.png",
+            "type": "web app",
+            "status": "developing",
+            "title": "founder & fullstack dev"
+        },
+        {
+            "name": "Blinkly",
+            "description": "Blinkly is a free macOS menu bar app that reminds you to take breaks, blink, and fix your posture for healthier screen time.",
+            "link": "https://github.com/noirrs/blinkly",
+            "image": "https://raw.githubusercontent.com/noirrs/noirrs/main/projects/blinkly.png",
+            "type": "macos app",
+            "status": "active",
+            "title": "developer"
+        }
+    ],
+    "works": [
+        {
+            "company": "Abidos Bilişim Teknolojileri",
+            "position": "Internship",
+            "duration": "Jul 2024 - Aug 2024",
+            "location": "Istanbul, Turkey · Hybrid",
+            "description": "During my internship, I developed and maintained a web server using NestJS to manage and process real-time data for a taxi location tracking system. I contributed to building the backend architecture, integrating APIs, and optimizing data flow to track and display taxi locations in real-time. This experience enhanced my skills in server-side development, working with databases, and utilizing WebSocket for live data updates.",
+            "technologies": [
+                "OpenStreetMap",
+                "NestJS",
+                "WebSocket"
+            ],
+            "url": "",
+            "current": false
+        },
+        {
+            "company": "ProPartner Market",
+            "position": "Backend Developer",
+            "duration": "Nov 2023 - Jan 2024",
+            "location": "Remote",
+            "description": "Worked remotely as a backend developer, collaborating closely with senior engineers to develop and maintain a microservice architecture (MSA) using NestJS, TypeScript, Redis, and Docker. Focused on improving performance and reliability, while gaining experience with Atlassian tools for task management and team coordination.",
+            "technologies": [
+                "NestJS",
+                "TypeScript",
+                "Redis",
+                "Docker",
+                "Atlassian"
+            ],
+            "url": "",
+            "current": false
+        },
+        {
+            "company": "Reponse App",
+            "position": "Founder & Backend Developer",
+            "duration": "2020 - Nov 2021",
+            "location": "Remote",
+            "description": "Founded a startup with friends, gaining hands-on experience in building and scaling a product. Worked remotely as a backend developer at Reponse App, a privacy-focused chat platform. Developed and maintained microservices using NestJS, TypeScript, Fastify, and Docker. Led public relations and marketing efforts to increase brand awareness and user acquisition. Also served as Team Leader and handled Project Management.",
+            "technologies": [
+                "NestJS",
+                "TypeScript",
+                "Fastify",
+                "Docker",
+                "Project Management"
+            ],
+            "url": "https://github.com/ReponseApp",
+            "current": false
+        }
+    ]
 }

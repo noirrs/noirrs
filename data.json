@@ -71,8 +71,8 @@
       "position": "Backend Developer",
       "duration": "Nov 2023 - Jan 2024",
       "location": "Remote",
-      "description": "Worked remotely as a backend developer, developing and maintaining a microservice architecture (MSA) using NestJS, TypeScript, Redis, and Docker. Focused on improving performance and reliability, while gaining experience with Atlassian tools for task management and team coordination.",
-      "technologies": ["NestJS", "TypeScript", "Redis", "Docker", "Atlassian"],
+	  "description": "Worked remotely as a backend developer, collaborating closely with senior engineers to develop and maintain a microservice architecture (MSA) using NestJS, TypeScript, Redis, and Docker. Focused on improving performance and reliability, while gaining experience with Atlassian tools for task management and team coordination."
+	  "technologies": ["NestJS", "TypeScript", "Redis", "Docker", "Atlassian"],
       "url": "",
       "current": false
     },

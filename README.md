@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">👋 Hey Everyone, I'm Taha! </h1>
+<h1 align="center">👋 Hey Everyone </h1>
   
 <p>
   
